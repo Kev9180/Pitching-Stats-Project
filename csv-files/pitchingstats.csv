@@ -1,0 +1,108 @@
+﻿"last_name, first_name",player_id,year,p_formatted_ip,k_percent,p_win,p_loss,p_era,team
+"Morton, Charlie",450203,2024,165.1,23.8,8,10,4.19,Braves
+"Lynn, Lance",458681,2024,117.1,21.3,7,4,3.84,Cardinals
+"Quintana, Jose",500779,2024,170.1,18.8,10,10,3.75,Mets
+"Gibson, Kyle",502043,2024,169.2,20.9,8,8,4.24,Cardinals
+"Sale, Chris",519242,2024,177.2,32.1,18,3,2.38,Braves
+"Pérez, Martín",527048,2024,135,18.1,5,6,4.53,Padres
+"Anderson, Tyler",542881,2024,179.1,18.6,10,15,3.81,Angels
+"Eovaldi, Nathan",543135,2024,170.2,23.9,12,8,3.8,Rangers
+"Gray, Sonny",543243,2024,166.1,30.3,13,9,3.84,Cardinals
+"Hendricks, Kyle",543294,2024,130.2,15.3,4,12,5.92,Cubs
+"Suárez, Albert",544150,2024,133.2,19.1,9,7,3.7,Orioles
+"Lorenzen, Michael",547179,2024,130.1,18.1,7,6,3.31,Royals
+"Wheeler, Zack",554430,2024,200,28.5,16,7,2.57,Phillies
+"Corbin, Patrick",571578,2024,174.2,18.2,6,13,5.62,Nationals
+"Heaney, Andrew",571760,2024,160,22.9,5,14,4.28,Rangers
+"Mikolas, Miles",571945,2024,171.2,16.9,10,11,5.35,Cardinals
+"Stroman, Marcus",573186,2024,154.2,16.7,10,9,4.31,Yankees
+"Kikuchi, Yusei",579328,2024,175.2,28,9,10,4.05,Astros
+"Gausman, Kevin",592332,2024,181,21.4,14,11,3.83,Blue Jays
+"Taillon, Jameson",592791,2024,165.1,18.5,12,8,3.27,Cubs
+"Montas, Frankie",593423,2024,150.2,22.6,7,11,4.84,Brewers
+"Lively, Ben",594902,2024,151,18.7,13,10,3.81,Guardians
+"Gomber, Austin",596295,2024,165,16.7,5,12,4.75,Rockies
+"Pivetta, Nick",601713,2024,145.2,28.9,6,12,4.14,Red Sox
+"Bassitt, Chris",605135,2024,171,22.2,10,14,4.16,Blue Jays
+"Nola, Aaron",605400,2024,199.1,24,14,8,3.57,Phillies
+"Rea, Colin",607067,2024,167.2,18.9,12,6,4.29,Brewers
+"Rodón, Carlos",607074,2024,175,26.5,16,9,3.96,Yankees
+"Glasnow, Tyler",607192,2024,134,32.2,9,6,3.49,Dodgers
+"Fedde, Erick",607200,2024,177.1,21.2,9,9,3.3,Cardinals
+"Martinez, Nick",607259,2024,142.1,20.4,10,7,3.1,Reds
+"Lugo, Seth",607625,2024,206.2,21.7,16,9,3,Royals
+"Fried, Max",608331,2024,174.1,23.2,11,10,3.25,Braves
+"Wacha, Michael",608379,2024,166.2,21.2,13,8,3.35,Royals
+"Quantrill, Cal",615698,2024,148.1,16.8,8,11,4.98,Rockies
+"Eflin, Zach",621107,2024,165.1,19.6,10,9,3.59,Orioles
+"Berríos, José",621244,2024,192.1,19.5,16,11,3.6,Blue Jays
+"Castillo, Luis",622491,2024,175.1,24.3,11,12,3.64,Mariners
+"Severino, Luis",622663,2024,182,21.2,11,7,3.91,Mets
+"Flexen, Chris",623167,2024,160,17.4,3,15,4.95,White Sox
+"Suárez, Ranger",624133,2024,150.2,23.2,12,8,3.46,Phillies
+"López, Reynaldo",625643,2024,135.2,27.3,8,5,1.99,Braves
+"Manaea, Sean",640455,2024,181.2,24.9,12,6,3.47,Mets
+"López, Pablo",641154,2024,185.1,25.6,15,10,4.08,Twins
+"Cortes Jr., Nestor",641482,2024,174.1,22.8,9,10,3.77,Yankees
+"Littell, Zack",641793,2024,156.1,21.5,8,10,3.63,Rays
+"Ober, Bailey",641927,2024,178.2,26.9,12,9,3.98,Twins
+"Peralta, Freddy",642547,2024,173.2,27.6,11,9,3.68,Brewers
+"King, Michael",650633,2024,173.2,27.7,13,9,2.95,Padres
+"Civale, Aaron",650644,2024,161,21.6,8,9,4.36,Brewers
+"Sánchez, Cristopher",650911,2024,181.2,20.3,11,9,3.32,Phillies
+"Canning, Griffin",656288,2024,171.2,17.6,6,13,5.19,Angels
+"Cease, Dylan",656302,2024,189.1,29.4,14,11,3.47,Padres
+"Flaherty, Jack",656427,2024,162,29.9,13,7,3.17,Dodgers
+"Houck, Tanner",656557,2024,178.2,20.7,9,10,3.12,Red Sox
+"Keller, Mitch",656605,2024,178,21.5,11,12,4.25,Pirates
+"Montgomery, Jordan",656756,2024,117,15.6,8,7,6.23,Diamondbacks
+"Peterson, David",656849,2024,121,19.8,10,3,2.9,Mets
+"Steele, Justin",657006,2024,134.2,24.3,5,5,3.07,Cubs
+"Webb, Logan",657277,2024,204.2,20.5,13,10,3.47,Giants
+"Ryan, Joe",657746,2024,135,27.3,7,7,3.6,Twins
+"Gil, Luis",661563,2024,151.2,26.8,15,7,3.5,Yankees
+"Waldron, Matt",663362,2024,146.2,21.3,7,11,4.91,Padres
+"Feltner, Ryan",663372,2024,162.1,19.9,3,10,4.49,Rockies
+"Falter, Bailey",663559,2024,142.1,16.5,8,9,4.43,Pirates
+"Irvin, Jake",663623,2024,187.2,20.3,10,14,4.41,Nationals
+"Singer, Brady",663903,2024,179.2,22.3,9,13,3.71,Royals
+"Valdez, Framber",664285,2024,176.1,24,15,7,2.91,Astros
+"Kremer, Dean",665152,2024,129.2,22.2,8,10,4.1,Orioles
+"Assad, Javier",665871,2024,147,19.4,7,6,3.73,Cubs
+"Ragans, Cole",666142,2024,186.1,29.3,11,9,3.14,Royals
+"Gallen, Zac",668678,2024,148,25.1,14,6,3.65,Diamondbacks
+"Greene, Hunter",668881,2024,150.1,27.7,9,5,2.75,Reds
+"Myers, Tobias",668964,2024,138,22.3,9,6,3,Brewers
+"Gore, MacKenzie",669022,2024,166.1,24.8,10,12,3.9,Nationals
+"Nelson, Ryne",669194,2024,150.2,20,10,6,4.24,Diamondbacks
+"Burnes, Corbin",669203,2024,194.1,23.1,15,9,2.92,Orioles
+"Gilbert, Logan",669302,2024,208.2,27.4,9,12,3.23,Mariners
+"Skubal, Tarik",669373,2024,192,30.3,18,4,2.39,Tigers
+"Rogers, Trevor",669432,2024,124.1,17.3,2,11,4.92,Orioles
+"Pallante, Andre",669467,2024,121.1,18.5,8,8,3.78,Cardinals
+"Blanco, Ronel",669854,2024,167.1,24.6,13,6,2.8,Astros
+"Kirby, George",669923,2024,191,23,14,11,3.53,Mariners
+"Abbott, Andrew",671096,2024,138,19.5,10,10,3.72,Reds
+"Bradley, Taj",671737,2024,138,26.6,8,11,4.11,Rays
+"Bibee, Tanner",676440,2024,173.2,26.3,12,8,3.47,Guardians
+"Sears, JP",676664,2024,180.2,18.1,11,13,4.38,Athletics
+"Crawford, Kutter",676710,2024,183.2,23.1,9,16,4.36,Red Sox
+"Crochet, Garrett",676979,2024,146,35.1,6,12,3.58,White Sox
+"Bello, Brayan",678394,2024,162.1,21.8,14,8,4.49,Red Sox
+"Marsh, Alec",679525,2024,129,22.4,9,9,4.53,Royals
+"Woods Richardson, Simeon",680573,2024,133.2,20.6,5,5,4.17,Twins
+"Parker, Mitchell",680730,2024,151,20.6,7,10,4.29,Nationals
+"Arrighetti, Spencer",681293,2024,145,27.1,7,13,4.53,Astros
+"Miller, Bryce",682243,2024,180.1,24.3,12,8,2.94,Mariners
+"Ortiz, Luis",682847,2024,135.2,19.2,7,6,3.32,Pirates
+"Jones, Jared",683003,2024,121.2,26.2,6,8,4.14,Pirates
+"Estes, Joey",683155,2024,127.2,16.9,7,9,5.01,Athletics
+"Imanaga, Shota",684007,2024,173.1,25.1,15,3,2.91,Cubs
+"Cannon, Jonathan",686563,2024,124.1,17.4,5,10,4.49,White Sox
+"Brown, Hunter",686613,2024,170,25.1,11,9,3.49,Astros
+"Pepiot, Ryan",686752,2024,130,26.3,8,8,3.6,Rays
+"Spence, Mitch",687765,2024,151.1,19.4,8,10,4.58,Athletics
+"Harrison, Kyle",690986,2024,124.1,22.2,7,7,4.56,Giants
+"Pfaadt, Brandon",694297,2024,181.2,24.3,11,10,4.71,Diamondbacks
+"Stone, Gavin",694813,2024,140.1,20,11,5,3.53,Dodgers
+"Skenes, Paul",694973,2024,133,33.1,11,3,1.96,Pirates
