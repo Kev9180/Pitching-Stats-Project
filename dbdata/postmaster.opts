@@ -1,0 +1,1 @@
+/usr/lib/postgresql/16/bin/postgres "-D" "/home/kev9180/CSE412/Pitching-Stats-Project/dbdata" "-k" "/tmp"
